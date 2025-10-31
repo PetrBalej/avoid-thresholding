@@ -6,6 +6,8 @@ E.g. *classical* biological:
 2. biogeography
 3. biocoenosis (community, assemblage)
 
+## Comics
 
+![Gecko and pond skater (threshold addicted): We live on the threshold. Frog (threshold beneficiary): I need both sides of the threshold. Dolphin (threshold dependent): I breathe through the threshold. Bird (threshold terminated): Killed by an artificial threshold.](comics-avoid-artificial-threshold.png "Killed by an artificial threshold.")
 
 
